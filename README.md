@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-detection
+# Credit-Card-Fraud-Detection
 
 The code you're working with is for building a machine learning model to detect fraudulent transactions in a credit card transaction dataset. Here's a breakdown of what each part of the code does:
 
