@@ -91,7 +91,7 @@ V24 = float(input("Enter the value for V24: "))
 V25 = float(input("Enter the value for V25: "))
 V26 = float(input("Enter the value for V26: "))
 V27 = float(input("Enter the value for V27: "))
-V28 = float(input("Enter the value for V28: "))
+V28 = float(input("Enter the value for V281: "))
 amount = float(input("Enter the transaction amount: "))
 
 # Create a DataFrame with the user input
