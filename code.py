@@ -65,7 +65,7 @@ print("Accuracy:", accuracy)
 # Get user input for transaction features
 time = float(input("Enter the transaction time: "))
 V1 = float(input("Enter the value for V01: "))
-V2 = float(input("Enter the value for V2: "))
+V2 = float(input("Enter the value for V02: "))
 V3 = float(input("Enter the value for V3: "))
 V4 = float(input("Enter the value for V4: "))
 V5 = float(input("Enter the value for V5: "))
