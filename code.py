@@ -34,7 +34,7 @@ print(fraud.shape)
 legit_sample = legit.sample(n=492)
 new_dataset = pd.concat([legit_sample, fraud], axis=0)
 X = new_dataset.drop(columns='Class', axis=1)
-Y = new_dataset['Class']
+Y = new_dataset['Classs']
 X_train,X_test,Y_train,Y_test = train_test_split(X, Y, test_size=0.2, stratify=Y, random_state=2)
 print(X.shape,X_train.shape,X_test.shape)
 model = LogisticRegression()
